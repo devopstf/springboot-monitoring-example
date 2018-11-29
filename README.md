@@ -1,4 +1,4 @@
-# Springboot demo application for Monitoring demo using Prometheus and Grafana
+# Monitoring demo for Openshift with Prometheus and Grafana
 
 This simple demo has been forked from [ConSol Labs](https://labs.consol.de/development/2018/01/19/openshift_application_monitoring.html).
 It has been deployed using OKD docker-based cluster launched via ``oc cluster up``
